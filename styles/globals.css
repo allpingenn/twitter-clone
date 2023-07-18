@@ -6,12 +6,6 @@
   @apply h-full bg-black
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    @apply h-full bg-black
-  }
-}
-
 body {
   @apply h-full bg-black
 }
